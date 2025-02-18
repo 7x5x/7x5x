@@ -1,10 +1,9 @@
-# Hi there, I'm Ali # Hi there <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/wave.gif" width="30px"/>
+# Hi there, I'm Ali <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/wave.gif" width="30px"/>
 
 🚀 **Front-End Developer | React, Next.js, Dart, Flutter**
 
-
 <br/>
-<p>Connect with me!</p>
+<p>Let's Connect</p>
 <p  >
   <a href="https://www.linkedin.com/in/your-profile" ><img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg" width="40px" /></a>
   <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -26,13 +25,10 @@
 
 ### 📝 Languages
 
-- JavaScript (ES6+)
-
-- TypeScript
-
-- Dart
-
-- C#
+<p  >
+   <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/javascript.svg" width="40px" />  
+   <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/typescript.svg" width="40px" />   
+</p>
 
 - **Front-End:** React, Next.js, Flutter, TypeScript, HTML, CSS, JavaScript (ES6+)
 
@@ -45,20 +41,6 @@
 - **Other Tools:** Redux, RESTful APIs, JWT Authentication
 
 - **Networking & Security:** CCNA, Basic Cybersecurity
-
----
-
-## 🚀 Projects
-
-- 🏷️ **Modern Web Applications:**
-  - Developed and optimized React and Next.js applications for performance and scalability.
-  - Integrated front-end with back-end APIs, ensuring seamless data flow.
-  - Implemented authentication systems using JWT and database integrations with MongoDB & SQL.
-- 🔍 **Security & Networking:**
-  - Studied MCSA topics independently to strengthen server management skills.
-  - Applied security best practices in web applications to enhance data protection.
-- 🌐 **Mobile Development:**
-  - Built and deployed Flutter applications for cross-platform mobile experiences.
 
 ---
 
@@ -78,13 +60,6 @@
   - **AWS Certified Developer – Associate** (for cloud development)
   - **Google Associate Android Developer** (for Flutter mobile expertise)
   - **Certified Ethical Hacker (CEH)** (for security focus)
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
 
 ---
 
