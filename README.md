@@ -1,4 +1,4 @@
-# Hi there, I'm Ali <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/wave.gif" width="30px"/>
+# _Hi there, I'm Ali_ <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/wave.gif" width="30px"/>
 
 🚀 **Front-End Developer | React, Next.js, Dart, Flutter**
 
@@ -11,6 +11,7 @@
 </p>
 
 ##
+
 ## 💻 About Me
 
 - 🌟 Passionate front-end developer with a focus on building modern, scalable web applications.
@@ -27,7 +28,6 @@
    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/typescript.svg" width="40px" />   
 </p>
 
-
 - **Front-End:** React, Next.js, Flutter, TypeScript, HTML, CSS, JavaScript (ES6+)
 
 - **Back-End:** Express, Node.js, APIs, C# (basic)
@@ -40,24 +40,7 @@
 
 - **Networking & Security:** CCNA, Basic Cybersecurity
 
----
-
-## 📊 GitHub Stats
-
----
-
-## 🔥 Streak Stats
-
----
-
 ## 🎓 Certifications & Learning
-
-- **CCNA (Cisco Certified Network Associate)**
-- **MCSA (Self-Study - Windows Server & SQL Server)**
-- 📌 Suggested Next Steps:
-  - **AWS Certified Developer – Associate** (for cloud development)
-  - **Google Associate Android Developer** (for Flutter mobile expertise)
-  - **Certified Ethical Hacker (CEH)** (for security focus)
 
 ---
 
