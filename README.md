@@ -1,11 +1,11 @@
-# Hi there, I'm Ali # Hi there <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/wave.gif" width="30px">
+# Hi there, I'm Ali # Hi there <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/wave.gif" width="30px"/>
 
-🚀 **Front-End Developer |  React, Next.js, Dart, Flutter**
+🚀 **Front-End Developer | React, Next.js, Dart, Flutter**
 
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg"/></a>
+  <a href="https://www.linkedin.com/in/your-profile"><img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg" width="40px" /></a>
   <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
@@ -63,13 +63,9 @@
 
 ## 📊 GitHub Stats
 
-
-
 ---
 
 ## 🔥 Streak Stats
-
-
 
 ---
 
@@ -87,13 +83,12 @@
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📧 Email: [your.email@example.com](mailto\:your.email@example.com)
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
 
 ---
 
-⭐️ *"Code is like humor. When you have to explain it, it’s bad." — Cory House*
+⭐️ _"Code is like humor. When you have to explain it, it’s bad." — Cory House_
 
 ---
 
-*Thanks for stopping by! Happy coding! 🚀*
-
+_Thanks for stopping by! Happy coding! 🚀_
