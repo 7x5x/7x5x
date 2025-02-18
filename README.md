@@ -10,8 +10,7 @@
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
-
+##
 ## 💻 About Me
 
 - 🌟 Passionate front-end developer with a focus on building modern, scalable web applications.
@@ -23,12 +22,11 @@
 
 ## 🧑‍💻 Tech Stack
 
-### 📝 Languages
-
 <p  >
    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/javascript.svg" width="40px" />  
    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/typescript.svg" width="40px" />   
 </p>
+
 
 - **Front-End:** React, Next.js, Flutter, TypeScript, HTML, CSS, JavaScript (ES6+)
 
