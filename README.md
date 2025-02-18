@@ -1,51 +1,99 @@
-<h1 style="text-align: center;">
-  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Javier+Paez+Franco" alt="Title GitHub Readme" />
-  </a>
-</h1>
+# Hi there, I'm Ali # Hi there <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/wave.gif" width="30px">
 
-[![Website](https://img.shields.io/badge/Website-jpaefra.com-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white)](http://jpaefra.com)
-[![Blog](https://img.shields.io/badge/Blog-jpaefra.com/blog-informational?style=flat-square&color=FAEEE7&logo=krita&logoColor=white)](http://jpaefra.com/blog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-paez-franco/)
-[![Mail](https://img.shields.io/badge/Gmail-business.antler474@passinbox.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:business.antler474@passinbox.com?subject=Hey!)
+🚀 **Front-End Developer |  React, Next.js, Dart, Flutter**
 
-<br>
+---
 
-# Hi there <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/wave.gif" width="30px">
-
-My name is Javier Paez, a graduate student at Imperial College 🇬🇧 pursuing a M.Sc. in Computer Science, specialized in Artificial Intelligence and Machine Learning.
-
-Previously, I obtained my B.Sc. in Computer Science and Engineering from TU Delft 🇳🇱, where I joined the challenging Next Generation Robotics Honours Program, a two-year research program where ten carefully selected B.Sc. students work on research projects at the TU Delft Robotics Institute.
-
-💻 My interests lie within the field of AI, Machine Learning & Robotics
-
-🎶 Outside my academic and professional pursuits, I am passionate about music, having played the violin with multiple orchestras worldwide
-
-🎞️ I am also interested in video games and cinematography
-
-If you like what I do, maybe consider buying me a coffee/tea 👉👈
-
-<a href="https://buymeacoffee.com/jpaefra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-## GitHub Stats
-
-<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/?username=umenzi&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
- -->
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=umenzi&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
-
-<h2 style="text-align: center;">👨‍💻 Repositories 👨‍💻</h2>
-
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <a href="https://github.com/umenzi/bio-inspired_algorithms">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=umenzi&repo=bio-inspired_algorithms&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Bio-Inspired algorithms"/>
-  </a>
-  <a href="https://github.com/umenzi/jpaefra">
-    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=umenzi&repo=jpaefra&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Personal Website"/>
-  </a>
-  <a href="https://github.com/umenzi/diversity-rlhf">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=umenzi&repo=diversity-rlhf&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="The human factor: Addressing Diversity in RLHF" />
-  </a>
+  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<a href="https://github.com/umenzi?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+---
+
+## 💻 About Me
+
+- 🌟 Passionate front-end developer with a focus on building modern, scalable web applications.
+- 🔗 Experienced in React, Next.js, and Flutter for creating dynamic and responsive UIs.
+- ⚙️ Knowledgeable in back-end technologies like Express, MongoDB, and SQL databases.
+- 🔒 Familiar with networking and security concepts (CCNA certified, MCSA self-study).
+
+---
+
+## 🧑‍💻 Tech Stack
+
+### 📝 Languages
+
+- JavaScript (ES6+)
+
+- TypeScript
+
+- Dart
+
+- C#
+
+- **Front-End:** React, Next.js, Flutter, TypeScript, HTML, CSS, JavaScript (ES6+)
+
+- **Back-End:** Express, Node.js, APIs, C# (basic)
+
+- **Databases:** MongoDB, Mongoose, MySQL, SQL Server
+
+- **Version Control:** Git, GitHub
+
+- **Other Tools:** Redux, RESTful APIs, JWT Authentication
+
+- **Networking & Security:** CCNA, Basic Cybersecurity
+
+---
+
+## 🚀 Projects
+
+- 🏷️ **Modern Web Applications:**
+  - Developed and optimized React and Next.js applications for performance and scalability.
+  - Integrated front-end with back-end APIs, ensuring seamless data flow.
+  - Implemented authentication systems using JWT and database integrations with MongoDB & SQL.
+- 🔍 **Security & Networking:**
+  - Studied MCSA topics independently to strengthen server management skills.
+  - Applied security best practices in web applications to enhance data protection.
+- 🌐 **Mobile Development:**
+  - Built and deployed Flutter applications for cross-platform mobile experiences.
+
+---
+
+## 📊 GitHub Stats
+
+
+
+---
+
+## 🔥 Streak Stats
+
+
+
+---
+
+## 🎓 Certifications & Learning
+
+- **CCNA (Cisco Certified Network Associate)**
+- **MCSA (Self-Study - Windows Server & SQL Server)**
+- 📌 Suggested Next Steps:
+  - **AWS Certified Developer – Associate** (for cloud development)
+  - **Google Associate Android Developer** (for Flutter mobile expertise)
+  - **Certified Ethical Hacker (CEH)** (for security focus)
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📧 Email: [your.email@example.com](mailto\:your.email@example.com)
+
+---
+
+⭐️ *"Code is like humor. When you have to explain it, it’s bad." — Cory House*
+
+---
+
+*Thanks for stopping by! Happy coding! 🚀*
+
