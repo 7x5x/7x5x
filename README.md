@@ -2,10 +2,11 @@
 
 🚀 **Front-End Developer | React, Next.js, Dart, Flutter**
 
----
+--
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg" width="40px" /></a>
+<p>Connect with me!</p>
+<p  >
+  <a href="https://www.linkedin.com/in/your-profile" style={background: '#0077B5'}><img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg" width="40px" /></a>
   <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
