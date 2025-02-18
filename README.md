@@ -1,6 +1,6 @@
 # _Hi there, I'm Ali_ <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/wave.gif" width="30px"/>
 
-🚀 **Front-End Developer | React, Next.js, Dart, Flutter**
+🚀 **Full Stack Developer | Express, Next.js, React, Flutter**
 
 <br/>
 <p>Let's Connect</p>
@@ -30,13 +30,13 @@
 
 - **Front-End:** React, Next.js, Flutter, TypeScript, HTML, CSS, JavaScript (ES6+)
 
-- **Back-End:** Express, Node.js, APIs, C# (basic)
+- **Back-End:** Express, Node.js, APIs, C# 
 
 - **Databases:** MongoDB, Mongoose, MySQL, SQL Server
 
 - **Version Control:** Git, GitHub
 
-- **Other Tools:** Redux, RESTful APIs, JWT Authentication
+- **Other Tools:**  RESTful APIs, JWT Authentication
 
 - **Networking & Security:** CCNA, Basic Cybersecurity
 
