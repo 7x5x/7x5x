@@ -28,7 +28,7 @@
 </p>
 
 _I’m currently learning_
-<br/> 
+ 
 
 <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/typescript.svg" width="30px" />
 
