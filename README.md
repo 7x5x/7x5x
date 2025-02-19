@@ -6,7 +6,7 @@
 
 🤝 **_Let's Connect & Build Something Awesome!_**
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/your-profile">
     <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg" width="30px" />
   </a>
