@@ -8,7 +8,7 @@
 
 ![Icon Description](https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg)
 ![Icon Description](https://raw.githubusercontent.com/7x5x/7x5x/main/images/hackerrank.svg)
-![Icon Description](https://raw.githubusercontent.com/7x5x/7x5x/main/images/hackerrank.svg)
+![Icon Description](https://raw.githubusercontent.com/7x5x/7x5x/main/images/hackerrank2.svg)
 ![Icon Description](https://raw.githubusercontent.com/7x5x/7x5x/main/images/x.svg)
 ![Icon Description](https://raw.githubusercontent.com/7x5x/7x5x/main/images/facebook.svg)
 ![Icon Description](https://raw.githubusercontent.com/7x5x/7x5x/main/images/behance.svg)
