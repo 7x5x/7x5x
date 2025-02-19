@@ -4,7 +4,7 @@
 
 <br/>
 
-## 🌍 Let's Connect
+## 🤝 Let's Connect & Build Something Awesome!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile">
@@ -27,9 +27,7 @@
   </a>
 </p>
 
----
-
-## 🛠️ Tech Stack
+# Tech Stack
 
 <p  >
    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/javascript.svg" width="30px" />  
