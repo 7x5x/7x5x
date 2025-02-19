@@ -1,11 +1,10 @@
 # _Hi there, I'm Ali_ <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/wave.gif" width="30px"/>
 
-🚀 **Full Stack Developer | JavaScript, TypeScript, Dart | (MERN Stack, Flutter, Next.js)**  
-
+🚀 **Full Stack Developer | JavaScript, TypeScript, Dart | (MERN Stack, Flutter, Next.js)**
 
 <br/>
 
-## 🌍 Let's Connect  
+## 🌍 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile">
@@ -21,40 +20,39 @@
 
 ---
 
-
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
 <p  >
    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/javascript.svg" width="40px" />  
    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/typescript.svg" width="40px" />   
 </p>
 
-<p>_I’m currently learning_</p>
-<img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/typescript.svg" width="40px" />  
+_I’m currently learning_
+<br/>
+<img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/typescript.svg" width="40px" />
 
 <br/>
 
-| **Category**       | **Technologies** |
-|--------------------|----------------|
-| 💻 **Front-End**   | React, Next.js, Flutter, HTML, CSS, JavaScript (ES6+), TypeScript |
-| 🖥️ **Back-End**   | Express.js, Node.js, C# (basic), RESTful APIs |
-| 🟢 **Databases**   | MongoDB, Mongoose, MySQL, SQL Server |
-| 🔧 **Tools**       | Git, GitHub, JWT Authentication |
-| 🔒 **Networking**  | CCNA, Basic Cybersecurity |
+| **Category**      | **Technologies**                                                  |
+| ----------------- | ----------------------------------------------------------------- |
+| 💻 **Front-End**  | React, Next.js, Flutter, HTML, CSS, JavaScript (ES6+), TypeScript |
+| 🖥️ **Back-End**   | Express.js, Node.js, C# (basic), RESTful APIs                     |
+| 🟢 **Databases**  | MongoDB, Mongoose, MySQL, SQL Server                              |
+| 🔧 **Tools**      | Git, GitHub, JWT Authentication                                   |
+| 🔒 **Networking** | CCNA, Basic Cybersecurity                                         |
 
 ---
 
 ## 📝 Certifications
+
   <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg" width="40px" />
     <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg" width="40px" />
       <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg" width="40px" />
 
-
 ---
 
-🌟 _"Code is like humor. When you have to explain it, it’s bad." — Cory House_  
+🌟 _"Code is like humor. When you have to explain it, it’s bad." — Cory House_
 
 ---
 
 _Thanks for stopping by! Happy coding! 🚀_
-
