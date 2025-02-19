@@ -8,13 +8,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile">
-    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg" width="40px" />
+    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg" width="30px" />
   </a>
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/hackerrank.svg" width="30px" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/x.svg" width="30px" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/facebook.svg" width="30px" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/instagram.svg" width="30px" />
+  </a>
+   <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/behance.svg" width="30px" />
   </a>
 </p>
 
