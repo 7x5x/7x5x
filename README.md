@@ -19,7 +19,6 @@
 - ⚙️ Knowledgeable in back-end technologies like Express, MongoDB, and SQL databases.
 - 🔒 Familiar with networking and security concepts (CCNA certified, MCSA self-study).
 
----
 
 ## 🧑‍💻 Tech Stack
 
