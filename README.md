@@ -13,6 +13,9 @@
   <a href="https://www.linkedin.com/in/your-profile">
     <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/hackerrank.svg" width="30px" />
   </a>
+   <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/hackerrank2.svg" width="30px" />
+  </a>
   <a href="https://www.linkedin.com/in/your-profile">
     <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/x.svg" width="30px" />
   </a>
