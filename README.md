@@ -1,6 +1,6 @@
 # _Hi there, I'm Ali_ <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/wave.gif" width="30px"/>
 
-🚀 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer+%7C+JavaScript%2C+TypeScript%2C+Dart+%7C+(MERN+Stack%2C+Flutter%2C+Next.js))](https://git.io/typing-svg)
+🚀 **[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&repeat=false&random=true&width=1000&height=150&lines=Full+Stack+Developer+%7C+JavaScript%2C+TypeScript%2C+Dart+%7C+(MERN+Stack%2C+Flutter%2C+Next.js))](https://git.io/typing-svg)**
 
 <br/>
 
