@@ -27,9 +27,8 @@
    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/typescript.svg" width="30px" />   
 </p>
 
-
 _I’m currently learning_
- 
+
 <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/typescript.svg" width="25px" />
 
 <br/>
@@ -46,9 +45,11 @@ _I’m currently learning_
 
 ## 📝 Certifications
 
-  <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg" width="40px" />
-    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg" width="40px" />
-      <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg" width="40px" />
+<p>
+  <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/cert1.svg" width="40px" />
+  <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/cert2.svg" width="40px" />
+  <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/cert3.svg" width="40px" />
+</p>
 
 ---
 
