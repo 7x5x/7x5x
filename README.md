@@ -3,7 +3,6 @@
 🚀 **Full Stack Developer | JavaScript, TypeScript, Dart | (MERN Stack, Flutter, Next.js)**  
 
 
-
 <br/>
 
 ## 🌍 Let's Connect  
@@ -22,14 +21,6 @@
 
 ---
 
-## 💻 About Me  
-
-- 🌟 Passionate **full-stack developer** with expertise in building modern, scalable applications.  
-- ⚡ Strong focus on **React, Next.js, and Flutter** for dynamic, responsive UIs.  
-- 🔗 Knowledgeable in **backend technologies** like Express.js, MongoDB, and SQL databases.  
-- 🔒 Security & networking enthusiast (**CCNA certified**, MCSA self-study).  
-
----
 
 ## 🛠️ Tech Stack  
 
@@ -53,13 +44,10 @@ _I’m currently learning_
 ---
 
 ## 📝 Certifications & Learning  
+  <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg" width="40px" />
+    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg" width="40px" />
+      <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg" width="40px" />
 
-- **CCNA** (Cisco Certified Network Associate)  
-- **MCSA** (Self-Study - Windows Server & SQL Server)  
-- 🎯 Suggested Certifications:
-  - 🏆 **AWS Certified Developer – Associate** (Cloud Development)
-  - 📱 **Google Associate Android Developer** (Flutter Mobile Expertise)
-  - 🔐 **Certified Ethical Hacker (CEH)** (Cybersecurity Focus)
 
 ---
 
