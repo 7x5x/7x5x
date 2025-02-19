@@ -1,4 +1,4 @@
-# _Hi there, I'm Ali_ ![Wave](https://raw.githubusercontent.com/7x5x/7x5x/main/images/wave.gif)
+# _Hi there, I'm Ali_ <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/wave.gif" width="30px"/>
 
 🚀 **Full Stack Developer | JavaScript, TypeScript, Dart | (MERN Stack, Flutter, Next.js)**
 
@@ -6,12 +6,25 @@
 
 ## 🌍 Let's Connect
 
-<p>
-  <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg" width="30px" />
-  <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/hackerrank.svg" width="30px" />
-  <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/x.svg" width="30px" />
-  <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/facebook.svg" width="30px" />
-  <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/behance.svg" width="30px" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg" width="30px" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/hackerrank.svg" width="30px" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/x.svg" width="30px" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/facebook.svg" width="30px" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/instagram.svg" width="30px" />
+  </a>
+   <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/behance.svg" width="30px" />
+  </a>
 </p>
 
 ---
