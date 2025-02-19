@@ -29,10 +29,8 @@
    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/typescript.svg" width="40px" />   
 </p>
 
-_I’m currently learning_
-<p>
+<p>_I’m currently learning_</p>
 <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/typescript.svg" width="40px" />  
-</p>
 
 <br/>
 
