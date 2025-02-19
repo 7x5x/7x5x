@@ -46,7 +46,7 @@ _I’m currently learning_
 
 ---
 
-## 📝 Certifications & Learning  
+## 📝 Certifications
   <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg" width="40px" />
     <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg" width="40px" />
       <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg" width="40px" />
