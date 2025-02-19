@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer | JavaScript, TypeScript, Dart | (MERN Stack, Flutter, Next.js)**  
 
----
+
 
 ## 🌍 Let's Connect  
 
