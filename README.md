@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/your-profile">
-    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg" width="30px" />
+    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg" width="33px" />
   </a>
   
   <a href="https://www.linkedin.com/in/your-profile">
