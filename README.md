@@ -10,12 +10,7 @@
   <a href="https://www.linkedin.com/in/your-profile">
     <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg" width="30px" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile">
-    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/hackerrank.svg" width="30px" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-profile">
-    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/x.svg" width="30px" />
-  </a>
+  
   <a href="https://www.linkedin.com/in/your-profile">
     <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/facebook.svg" width="25px" />
   </a>
@@ -24,6 +19,12 @@
   </a>
    <a href="https://www.linkedin.com/in/your-profile">
     <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/behance.svg" width="25px" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/hackerrank.svg" width="30px" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/x.svg" width="30px" />
   </a>
 </p>
 
