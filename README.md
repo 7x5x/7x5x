@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/instagram.svg" width="25px" />
   </a>
    <a href="https://www.linkedin.com/in/your-profile">
-    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/behance.svg" width="22px" />
+    <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/behance.svg" width="25px" />
   </a>
 </p>
 
