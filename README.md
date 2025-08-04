@@ -7,23 +7,23 @@
 🤝 **_Let's Connect & Build Something Awesome!_**
 
 <p>
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/ali-algabal/">
     <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/linkedin.svg" width="33px" />
   </a>
   
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.facebook.com/profile?id=100011583289007">
     <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/facebook1.svg" width="33px" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/ali-algabal/">
     <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/instagram1.svg" width="33px" />
   </a>
-   <a href="https://www.linkedin.com/in/your-profile">
+   <a href="https://linkedin.com/in/ali-algabal/">
     <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/behance.svg" width="25px" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/ali-algabal/">
     <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/hackerrank.svg" width="30px" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/ali-algabal/">
     <img src="https://raw.githubusercontent.com/7x5x/7x5x/main/images/x.svg" width="30px" />
   </a>
 </p>
